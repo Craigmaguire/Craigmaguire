@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Craigmaguire
 - 👀 I’m interested in Physical actvities and maths 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me craigmaguire00@gmail.com
 
